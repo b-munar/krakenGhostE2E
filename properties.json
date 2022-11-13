@@ -1,0 +1,14 @@
+{
+  "USERNAME": "ca.torrese@uniandes.edu.co",
+  "PASSWORD": "Prueba1234",
+  "PAGETITLE": "Nueva Pagina",
+  "PAGECONTENT": "Esta es una nueva pagina",
+  "PREVIEWTITLE": "Nueva Pagina Previsualizada",
+  "PREVIEWCONTENT": "Esta es una nueva pagina para previsualizar",
+  "EDITTITLE": "Nueva Pagina para Editar",
+  "EDITCONTENT": "Esta es una nueva pagina para editar",
+  "EDITEDTITLE": "Nueva Pagina Editada",
+  "EDITEDCONTENT": "Esta es una nueva pagina editada",
+  "DELETETITLE": "Nueva Pagina para Eliminar",
+  "DELETECONTENT": "Esta es una nueva pagina para eliminar"
+}
