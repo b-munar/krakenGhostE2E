@@ -1,6 +1,7 @@
 {
   "USERNAME": "b.munar@uniandes.edu.co",
   "PASSWORD": "princesa2022",
+  "PASSWORD_2": "princesa2020",
   "PAGETITLE": "Nueva Pagina",
   "PAGECONTENT": "Esta es una nueva pagina",
   "PREVIEWTITLE": "Nueva Pagina Previsualizada",
@@ -11,11 +12,12 @@
   "EDITEDCONTENT": "Esta es una nueva pagina editada",
   "DELETETITLE": "Nueva Pagina para Eliminar",
   "DELETECONTENT": "Esta es una nueva pagina para eliminar",
-  "HOST": "http://localhost:2368/ghost/",
   "INVITEEMAIL": "ca.torrese@uniandes.edu.co",
   "INVITEEMAIL2": "ca.torrese@uniandes.edu.com",
   "INVITEEMAIL3": "ca.torrese@uniandes.edu.uk",
   "NEWNAME": "Nuevo nombre",
   "NEWSLUG": "nuevo-slug",
-  "NEWLOCATION": "Nueva ubicacion"
+  "NEWLOCATION": "Nueva ubicacion",
+  "HOST": "http://localhost:2370/ghost/",
+  "NAME": "brahian"
 }
