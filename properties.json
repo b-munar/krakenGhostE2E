@@ -11,5 +11,11 @@
   "EDITEDCONTENT": "Esta es una nueva pagina editada",
   "DELETETITLE": "Nueva Pagina para Eliminar",
   "DELETECONTENT": "Esta es una nueva pagina para eliminar",
-  "HOST": "http://localhost:2370/ghost/"
+  "HOST": "http://localhost:2368/ghost/",
+  "INVITEEMAIL": "ca.torrese@uniandes.edu.co",
+  "INVITEEMAIL2": "ca.torrese@uniandes.edu.com",
+  "INVITEEMAIL3": "ca.torrese@uniandes.edu.uk",
+  "NEWNAME": "Nuevo nombre",
+  "NEWSLUG": "nuevo-slug",
+  "NEWLOCATION": "Nueva ubicacion"
 }
