@@ -42,6 +42,17 @@ When('I click Publish Dropdown in Post', async function(){
   return await element.click();
 })
 
+When('I click change time publish Post', async function(){
+  let element = await this.driver.$('div[class="gh-publishmenu-radio "]');
+  return await element.click();
+})
+
+When('I click change time publish Post 2', async function(){
+  let element = await this.driver.$('div[class="gh-publishmenu-radio active"]');
+  return await element.click();
+})
+
+
 When('I click Publish in Post', async function(){
   let element = await this.driver.$('button[class="gh-btn gh-btn-blue gh-publishmenu-button gh-btn-icon ember-view"]');
   return await element.click();
