@@ -18,7 +18,7 @@ Scenario: As an administrator user I preview a page - Como usuario administrador
   And I wait for 2 seconds
   And I enter content "<PREVIEWCONTENT>"
   And I wait for 2 seconds
-  And I click page setting
+  And I click page settings
   And I wait for 2 seconds
   And I click page preview
   And I wait for 3 seconds
