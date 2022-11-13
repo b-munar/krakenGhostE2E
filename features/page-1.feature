@@ -2,7 +2,7 @@ Feature: Create Page - Crear Page
 
 @user1 @web
 Scenario: As an administrator user I create a page - Como usuario administrador creo un page
-  Given I navigate to page "http://localhost:2368/ghost/"
+  Given I navigate to page "<HOST>"
   And I wait for 3 seconds
   When I enter email "<USERNAME>"
   And I wait for 2 seconds

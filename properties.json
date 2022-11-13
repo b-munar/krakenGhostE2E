@@ -1,6 +1,6 @@
 {
-  "USERNAME": "ca.torrese@uniandes.edu.co",
-  "PASSWORD": "Prueba1234",
+  "USERNAME": "b.munar@uniandes.edu.co",
+  "PASSWORD": "princesa2022",
   "PAGETITLE": "Nueva Pagina",
   "PAGECONTENT": "Esta es una nueva pagina",
   "PREVIEWTITLE": "Nueva Pagina Previsualizada",
@@ -10,5 +10,6 @@
   "EDITEDTITLE": "Nueva Pagina Editada",
   "EDITEDCONTENT": "Esta es una nueva pagina editada",
   "DELETETITLE": "Nueva Pagina para Eliminar",
-  "DELETECONTENT": "Esta es una nueva pagina para eliminar"
+  "DELETECONTENT": "Esta es una nueva pagina para eliminar",
+  "HOST": "http://localhost:2370/ghost/"
 }
