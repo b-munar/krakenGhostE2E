@@ -1,6 +1,7 @@
 {
   "USERNAME": "b.munar@uniandes.edu.co",
   "PASSWORD": "princesa2022",
+  "PASSWORD_2": "princesa2020",
   "PAGETITLE": "Nueva Pagina",
   "PAGECONTENT": "Esta es una nueva pagina",
   "PREVIEWTITLE": "Nueva Pagina Previsualizada",
@@ -11,5 +12,6 @@
   "EDITEDCONTENT": "Esta es una nueva pagina editada",
   "DELETETITLE": "Nueva Pagina para Eliminar",
   "DELETECONTENT": "Esta es una nueva pagina para eliminar",
-  "HOST": "http://localhost:2370/ghost/"
+  "HOST": "http://localhost:2370/ghost/",
+  "NAME": "brahian"
 }
