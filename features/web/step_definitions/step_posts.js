@@ -22,13 +22,27 @@ When('I enter Post content {string}', async function(content){
   return await element.setValue(content);
 })
 
+When('I click settings Dropdown in Post', async function(){
+  let element = await this.driver.$('button[class="post-settings"]');
+  return await element.click();
+})
 
-When('I click Publish Dropdown in post', async function(){
+When('I click delete Post', async function(){
+  let element = await this.driver.$('button[class="gh-btn gh-btn-hover-red gh-btn-icon settings-menu-delete-button"]');
+  return await element.click();
+})
+
+When('I click delete Post 2', async function(){
+  let element = await this.driver.$('button[class="gh-btn gh-btn-red gh-btn-icon ember-view"]');
+  return await element.click();
+})
+
+When('I click Publish Dropdown in Post', async function(){
   let element = await this.driver.$('div[class="ember-view ember-basic-dropdown-trigger  gh-btn gh-btn-outline gh-publishmenu-trigger"]');
   return await element.click();
 })
 
-When('I click Publish in post', async function(){
+When('I click Publish in Post', async function(){
   let element = await this.driver.$('button[class="gh-btn gh-btn-blue gh-publishmenu-button gh-btn-icon ember-view"]');
   return await element.click();
 })
